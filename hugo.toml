@@ -1,0 +1,7 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Chih-Hao Chang's Website"
+theme = ["hugo-embed-pdf-shortcode", "PaperMod"]
+enableInlineShortcodes = true
+
+
