@@ -3,7 +3,9 @@ title : "About Me"
 date : 2024-03-01
 draft : false
 ---
-# Introduction
-Hello. Welcom to my website. I am a student studying physics, especially for high energy physics.
+# The Goal Of This Website
+I aim to document the physics I've learned in a manner that deviates from traditional textbooks. Additionally, I strive to condense the content while retaining all essential information.
+
+
 
 {{< embed-pdf url="Project.pdf">}}
