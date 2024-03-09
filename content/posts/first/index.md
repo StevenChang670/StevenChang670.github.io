@@ -7,5 +7,3 @@ draft : false
 I aim to document the physics I've learned in a manner that deviates from traditional textbooks. Additionally, I strive to condense the content while retaining all essential information.
 
 
-
-{{< embed-pdf url="Project.pdf">}}

@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chih-Hao Chang&#39;s Website</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Chih-Hao Chang&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>/posts/first/</link>
+      <link>//localhost:1313/posts/first/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/first/</guid>
-      <description>Introduction Hello. Welcom to my website. I am a student studying physics, especially for high energy physics.
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>The Goal Of This Website I aim to document the physics I&amp;rsquo;ve learned in a manner that deviates from traditional textbooks. Additionally, I strive to condense the content while retaining all essential information.
 PreviousNext &amp;nbsp; &amp;nbsp;/ [pdf]View the PDF file here.</description>
     </item>
     <item>
       <title>Particle Physics</title>
-      <link>/posts/particle-physics/</link>
+      <link>//localhost:1313/posts/particle-physics/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/particle-physics/</guid>
+      <guid>//localhost:1313/posts/particle-physics/</guid>
       <description>#Introduction</description>
     </item>
     <item>
       <title>Quantum Field Theory</title>
-      <link>/posts/quantum-field-theory/</link>
+      <link>//localhost:1313/posts/quantum-field-theory/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/quantum-field-theory/</guid>
+      <guid>//localhost:1313/posts/quantum-field-theory/</guid>
       <description>#Introduction
 This is my second attempt.</description>
     </item>
